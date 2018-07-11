@@ -3,7 +3,7 @@
 #include <stdio.h>
 int main() {
 	
-	printf("Bla");
+	printf("Blablubb");
     printf("on master");
 	return 0;
 }
