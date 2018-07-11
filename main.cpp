@@ -6,7 +6,7 @@ int main() {
 	printf("Bla");
     printf('on master');
     //find the memorey leak
-    QString *string = new QString();
-
-	return 0;
+    QString string("idiot");
+	//why the hell do you use the string here!
+	return -1;
 }
