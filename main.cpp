@@ -4,6 +4,9 @@
 int main() {
 	
 	printf("Bla");
-    printf('on master')
+    printf('on master');
+    //find the memorey leak
+    QString *string = new QString();
+
 	return 0;
 }
