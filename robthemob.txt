@@ -2,6 +2,6 @@ i have created a funny file
 //i have created a funny file
 //i added some code:
 if(vishnu) {
-  cout << "is a very cool guy";
+  cout << "he is not a very cool guy";
 }
 blubb
