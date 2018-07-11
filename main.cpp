@@ -4,5 +4,6 @@
 int main() {
 	
 	printf("Bla");
+    printf('on master')
 	return 0;
 }
